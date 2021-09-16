@@ -40,4 +40,3 @@ document.getElementById('left-button').onclick = rotateLeft;
 // let note = document.querySelector("note");
 // let game = document.querySelector("game");
 // let grave = document.querySelector("grave");
-// document.addEventListener("DOMContentLoaded",  );
